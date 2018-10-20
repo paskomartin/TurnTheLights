@@ -1,0 +1,178 @@
+
+Blocks.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background001
+  rotate: false
+  xy: 1, 310
+  size: 640, 640
+  orig: 640, 640
+  offset: 0, 0
+  index: -1
+statsBackground
+  rotate: false
+  xy: 1, 265
+  size: 230, 43
+  orig: 230, 43
+  offset: 0, 0
+  index: -1
+blockAnim
+  rotate: false
+  xy: 643, 886
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+blockTurnOff
+  rotate: false
+  xy: 643, 886
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+blockAnim
+  rotate: false
+  xy: 1, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+blockAnim
+  rotate: false
+  xy: 643, 820
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+blockAnim
+  rotate: false
+  xy: 709, 886
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+blockAnim
+  rotate: false
+  xy: 1, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+blockAnim
+  rotate: false
+  xy: 67, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+blockAnim
+  rotate: false
+  xy: 643, 754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 7
+blockAnim
+  rotate: false
+  xy: 709, 820
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 8
+blockAnim
+  rotate: false
+  xy: 775, 886
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 9
+blockAnim
+  rotate: false
+  xy: 1, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 10
+blockAnim
+  rotate: false
+  xy: 67, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 11
+blockTurnOn
+  rotate: false
+  xy: 67, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+blockDisappear
+  rotate: false
+  xy: 133, 199
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 1
+blockDisappear
+  rotate: false
+  xy: 643, 688
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 2
+blockDisappear
+  rotate: false
+  xy: 709, 754
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 3
+blockDisappear
+  rotate: false
+  xy: 775, 820
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 4
+blockDisappear
+  rotate: false
+  xy: 841, 886
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 5
+blockDisappear
+  rotate: false
+  xy: 1, 1
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 6
+blockDisappear
+  rotate: false
+  xy: 67, 67
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 7
+blockDisappear
+  rotate: false
+  xy: 133, 133
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: 8
+
+Blocks2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+background002
+  rotate: false
+  xy: 1, 1
+  size: 640, 640
+  orig: 640, 640
+  offset: 0, 0
+  index: -1
